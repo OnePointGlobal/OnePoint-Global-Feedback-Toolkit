@@ -7,4 +7,4 @@ You can find a range of solution here. The first set available are for mobile ap
 
 [OnePoint Global Mobile App SDK for iOS](http://github.com/OnePointGlobal/OnePoint-Global-Mobile-App-SDK-ios)
 
-For an example of how to implement the Mobile App SDK for iOS see our [MySurveys App for iOS]http://github.com/OnePointGlobal/OnePoint-Global-MySurveys-App-iOS
+For an example of how to implement the Mobile App SDK for iOS see our [MySurveys App for iOS](http://github.com/OnePointGlobal/OnePoint-Global-MySurveys-App-iOS)
