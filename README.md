@@ -1,7 +1,7 @@
 # Welcome to the OnePoint Global Feedback Toolkit
 Feedback toolkits for SMS, Mobile Web and Mobile App
 
-You can find a range of solutions here for different feedback mediums. The first set available are for mobile applications in surveys and full feeback app solutions.
+You can find a range of solutions here for different feedback mediums. The first set available are for surveys in mobile applications and full feeback app solutions.
 
 ## OnePoint Global Account
 Please make sure that you get your [OnePoint Global Developers Account](http://www.onepointglobal.com/MobileSurveys/SurveyPlatform/createGlobalAccount) in order to take full advantage of the SDK's below.
