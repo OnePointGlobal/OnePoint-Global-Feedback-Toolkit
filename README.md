@@ -8,7 +8,7 @@ Please make sure that you get your [OnePoint Global Developers Account](http://w
 
 ## Mobile App Feedback SDK's
 
-We have an amazing Mobile App Feedback SDK for Android and iOS. It can be used to get feedback within your existing app or you can customise our very own MySurveys App to build your own.
+We have an amazing Mobile App Feedback SDK for Android and iOS. It can be used to get feedback within your existing app or you can customise our very own MySurveys App to build your own. Choose from the links below for more information:
 
 [OnePoint Global Mobile App SDK for Androind](http://github.com/OnePointGlobal/OnePoint-Global-Mobile-App-SDK-Android)
 
